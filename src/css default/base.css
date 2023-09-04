@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@300&display=swap');
+
+body {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    /*62.5% == 1 rem == 12px*/
+    font-size: 62.5%;
+}
+
+.grip {
+    display: block;
+    width: 100%;
+}
+
+.wide {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+button {
+    cursor: pointer;
+}
+
+.hidden{
+    display: none;
+}
+
+input{
+    padding: 0;
+}
